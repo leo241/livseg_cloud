@@ -1,0 +1,8 @@
+torch
+fastapi
+uvicorn
+SimpleITK
+tqdm
+skimage
+numpy
+

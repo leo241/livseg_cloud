@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@cornerstonejs/core": "^1.18.0",
+    "@cornerstonejs/dicom-image-loader": "^1.19.0",
+    "@cornerstonejs/streaming-image-volume-loader": "^1.18.0",
+    "@cornerstonejs/tools": "^1.18.0",
+    "axios": "^1.5.1",
+    "dicom-parser": "^1.8.21",
+    "naive-ui": "^2.34.4",
+    "vue": "^3.3.4",
+    "vue-echarts": "^6.6.1",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
+}
